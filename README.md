@@ -102,6 +102,10 @@ Workflow:
 
 Consider adding links in resources/ to specific papers, talks, or blog posts as you go.
 
+## License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
 ## Feedback
 
 If something is confusing or missing, please open an issue with:
